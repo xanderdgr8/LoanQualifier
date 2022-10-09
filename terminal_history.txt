@@ -1,0 +1,958 @@
+   50  pwd
+   51  .ssh/
+   52  ssh -T git@gitlab.com
+   53  ssh-keygen -t rsa -b 4096 -C "axvalenzuela@gmail.com"
+   54  eval "$(ssh-agent -s)"
+   55  ssh-add ~/.ssh/id_rsa
+   56  pbcopy < ~/.ssh/id_rsa.pub
+   57  ssh -T git@github.com
+   58  ls
+   59  cd desktop
+   60  ls
+   61  cd .
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd fintech_bootcamp
+   66  cd desktop
+   67  ls
+   68  cd fintech_bootcamp
+   69  ls
+   70  git clone 0bd5288ecf9b82ecc15b4713b844ece8b00b745e
+   71  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-09-2022-U-B.git
+   72  ls
+   73  cd UCB-VIRT-FIN-PT-09-2022-U-B
+   74  ls
+   75  git pull
+   76  cd
+   77  cd ..
+   78  pwd
+   79  cd ..
+   80  ls
+   81  cd desktop
+   82  cd ..
+   83  ls
+   84  cd users
+   85  ls
+   86  pwd
+   87  cd ..
+   88  pwd
+   89  ls
+   90  cd users
+   91  ls
+   92  cd alexvalenzuela
+   93  ls
+   94  cd desktop
+   95  ls
+   96  cd GitHub_Upload
+   97  ls
+   98  git clone git@github.com:xanderdgr8/fintechbootcamp.git
+   99  ls
+  100  git status
+  101  ls
+  102  git status
+  103  ls
+  104  cd loan_analyzer.py
+  105  cd ..
+  106  ls
+  107  cd github_upload
+  108  pwd
+  109  ls
+  110  git add .
+  111  ls
+  112  cd loan_analyzer.py
+  113  loan_analyzer.py
+  114  ls
+  115  push loan_analyzer.py
+  116  git push loan_analyzer.py
+  117  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  118  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  119  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  120  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  121  clear
+  122  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  123  clear
+  124  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  125  clear
+  126  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  127  clear
+  128  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  129  clear
+  130  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  131  clear
+  132  conda activate dev
+  133  pip -V
+  134  pip freeze
+  135  pip install fire
+  136  pip install questionary
+  137  clear
+  138  python app.py
+  139  ls
+  140  cd fintech_workspace
+  141  ls
+  142  module 2
+  143  cd module 2
+  144  ls
+  145  cd Module 2
+  146  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  147  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  148  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  149  clear
+  150  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  151  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  152  code ..
+  153  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  154  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  155  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  156  clear
+  157  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  158  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  159  clear
+  160  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  161  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  162  /usr/bin/python3 /Users/alexvalenzuela/Desktop/fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  163  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/teststimulation/test01.py
+  164  /opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/GitHub_Upload/teststimulation/test01.py
+  165  conda init
+  166  conda activate dev
+  167  source /opt/anaconda3/envs/dev/bin/activate /opt/anaconda3/envs/dev
+  168  /opt/anaconda3/envs/dev/bin/python /Users/alexvalenzuela/Desktop/GitHub_Upload/teststimulation/test01.py
+  169  source /opt/anaconda3/envs/dev/bin/activate /opt/anaconda3/envs/dev
+  170  conda env list
+  171  rm -rf ~/opt/anaconda3
+  172  conda env list
+  173  rm -rf /opt/anaconda3
+  174  conda env list
+  175  conda env list
+  176  conda
+  177  cd
+  178  ls
+  179  cd Applications
+  180  ls
+  181  cd ~/anaconda3
+  182  cd Users
+  183  cd ~/Users
+  184  ls
+  185  dir
+  186  pwd
+  187  cd ~/Users
+  188  cd ..
+  189  cd ~/Users
+  190  cd ..
+  191  cd
+  192  conda activate dev
+  193  code ..
+  194  opwd
+  195  pwd
+  196  ls
+  197  cd fintech_bootcamp
+  198  cd desktop
+  199  ls
+  200  cd fintech_bootcamp
+  201  ls
+  202  ls
+  203  ls
+  204  cd
+  205  cd fintech_bootcamp
+  206  cd desktop
+  207  cd fintech_b
+  208  cd fintech_bootcamp
+  209  ls
+  210  cd UCB-VIRT-FIN-PT-09-2022-U-B
+  211  git pull
+  212  ls
+  213  cd 02-Financial-Applications-Python
+  214  ls
+  215  cd 2
+  216  ls
+  217  cd activities
+  218  ls
+  219  cd 02_Stu_Build_ATM_Functions
+  220  ls
+  221  cd desktop
+  222  ls
+  223  cd
+  224  ls
+  225  cd desktop
+  226  ls
+  227  cd GitHub_Upload
+  228  ls
+  229  cd fintechbootcamp
+  230  ls
+  231  cd ..
+  232  git clone git@github.com:xanderdgr8/teststimulation.git
+  233  ls
+  234  cd teststimulation
+  235  touch test01.py test02.py test03.py test04.py
+  236  ls
+  237  git status
+  238  git add.
+  239  git add .
+  240  ls
+  241  git status
+  242  git commit -m "test files for class"
+  243  git push
+  244  code ..
+  245  code .
+  246  git status
+  247  git add .
+  248  git commit -m "test python files and readme"
+  249  git push
+  250  pwd
+  251  cd
+  252  cd ..
+  253  ls
+  254  cd desktop
+  255  cd alexvalenzuela
+  256  ls
+  257  cd desktop
+  258  ls
+  259  cd .
+  260  ls
+  261  cd
+  262  ls
+  263  cd desktop
+  264  ls
+  265  cd GitHub_Upload
+  266  ls
+  267  git clone git@github.com:xanderdgr8/LoanAnalyzer.git
+  268  git status
+  269  ls
+  270  cd LoanAnalyzer
+  271  ls
+  272  pwd
+  273  cd
+  274  ls
+  275  cd desktop
+  276  ls
+  277  cd GitHub_Upload
+  278  ls
+  279  git push
+  280  git status
+  281  ls
+  282  git add .
+  283  pwd
+  284  cd ..
+  285  ls
+  286  cd GitHub_Upload
+  287  cd ..
+  288  ls
+  289  git status
+  290  pwd
+  291  ls
+  292  cd GitHub_Upload
+  293  ls
+  294  cd LoanAnalyzer
+  295  ls
+  296  git status
+  297  git add .
+  298  git commit -m "Challenge assignment"
+  299  git push
+  300  pwd
+  301  ls
+  302  pwd
+  303  cd ...
+  304  cd ..
+  305  pwd
+  306  cd ..
+  307  cd ..
+  308  conda --version
+  309  conda deactivate
+  310  echo #{SHELL}
+  311  echo #{SHELL}
+  312  conda activate dev
+  313  cd ..
+  314  cd .
+  315  cd ..
+  316  conda activate dev
+  317  conda deactivate
+  318  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  319  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  320  clear
+  321  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/loan_analyzer.py
+  322  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  323  clear
+  324  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  325  clear
+  326  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  327  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  328  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  329  clear
+  330  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  331  clear
+  332  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  333  clear
+  334  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  335  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  336  clear
+  337  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  338  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  339  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  340  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  341  clear
+  342  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  343  clear
+  344  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  345  clear
+  346  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  347  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  348  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  349  clear
+  350  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  351  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  352  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  353  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  354  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  355  clear
+  356  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  357  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  358  clear
+  359  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  360  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  361  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  362  clear
+  363  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  364  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  365  clear
+  366  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  367  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  368  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  369  clear
+  370  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  371  clear
+  372  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  373  clear
+  374  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  375  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  376  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  377  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  378  clear
+  379  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  380  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  381  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  382  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  383  clear
+  384  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  385  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  386  clear
+  387  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  388  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  389  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  390  clear
+  391  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  392  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  393  clear
+  394  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  395  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  396  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  397  clear
+  398  clear
+  399  echo #{SHELL}
+  400  code ..
+  401  conda --version
+  402  conda updata conda
+  403  conda --version
+  404  conda updata conda
+  405  conda update anaconda
+  406  code ..
+  407  conda create -n dev python=3.7 anaconda
+  408  conda --version
+  409  code ..
+  410  code ..
+  411  code ..
+  412  pwd
+  413  ls
+  414  cd desktop
+  415  ls
+  416  cd GitHub_Upload
+  417  la
+  418  ls
+  419  cd LoanAnalyzer
+  420  la
+  421  la
+  422  ls
+  423  git status
+  424  exit
+  425  /usr/bin/python3 /Users/alexvalenzuela/Desktop/cli.py
+  426  conda activate dev
+  427  /usr/bin/python3 /Users/alexvalenzuela/Desktop/cli.py
+  428  clear
+  429  /usr/bin/python3 /Users/alexvalenzuela/Desktop/cli.py
+  430  /usr/bin/python3 /Users/alexvalenzuela/Desktop/cli.py
+  431  ls
+  432  cd desktop
+  433  ls
+  434  python cli.py
+  435  clear
+  436  python cli.py --pants=True
+  437  code ..
+  438  code ..
+  439  pwd
+  440  ls
+  441  cd desktop
+  442  ls
+  443  cd fintech_bootcamp
+  444  ls
+  445  cd..
+  446  cd ...
+  447  cd ..
+  448  ls
+  449  cd Fintech_Workspace
+  450  ls
+  451  cd Motudle 2
+  452  cd Module\ 2
+  453  ls
+  454  cd Class_2_Activities
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd 02_Modularize_Your_Loan_Qualifier_Application_Part_2
+  459  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  460  ls
+  461  cd Unsolved
+  462  ls
+  463  cd qualifier
+  464  ls
+  465  cd filters
+  466  ls
+  467  touch credit_score.py debt_to_income.py loan_to_value.py max_loan_size.py
+  468  code ..
+  469  python app.py
+  470  code ..
+  471  cd
+  472  pwd
+  473  ls
+  474  cd desktop
+  475  ls
+  476  cd Fintech_Workspace
+  477  ls
+  478  cd Module\ 2
+  479  ls
+  480  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  481  ls
+  482  cd Unsolved
+  483  ls
+  484  python app.py
+  485  code ..
+  486  pwd
+  487  cd ..
+  488  cd
+  489  ls
+  490  cd desktop
+  491  ls
+  492  python cli.py
+  493  pip install fire
+  494  pwd
+  495  ls
+  496  python cli.py
+  497  python cli.py
+  498  cd desktop
+  499  ls
+  500  python cli.py --pants=True
+  501  /usr/bin/python3 /Users/alexvalenzuela/Desktop/cli.py
+  502  /usr/bin/python3 /Users/alexvalenzuela/Desktop/cli.py
+  503  clear
+  504  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  505  clear
+  506  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  507  clear
+  508  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  509  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  510  clear
+  511  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  512  clear
+  513  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  514  clear
+  515  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  516  clear
+  517  /usr/bin/python3 /Users/alexvalenzuela/Desktop/test
+  518  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  519  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  520  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  521  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  522  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  523  clear
+  524  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  525  clear
+  526  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  527  clear
+  528  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  529  clear
+  530  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  531  clear
+  532  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  533  clear
+  534  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  535  clear
+  536  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  537  clear
+  538  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  539  clear
+  540  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  541  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanAnalyzer/loan_analyzer.py
+  542  clear
+  543  /usr/bin/python3 "/Users/alexvalenzuela/Desktop/Fintech_Workspace/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  544  conda activate dev
+  545  python cli.py
+  546  deactivate conda
+  547  conda deactivate
+  548  printenv
+  549  clear
+  550  printenv
+  551  conda install fire -c conda-forge
+  552  cd deskto
+  553  python cli.py
+  554  ls
+  555  cd desktop
+  556  ls
+  557  python cli.py
+  558  clear
+  559  python.cli
+  560  clear
+  561  python cli.py
+  562  cd ..
+  563  conda activate dev
+  564  ls
+  565  cd desktop
+  566  ls
+  567  python cli.py
+  568  clear
+  569  python cli.py
+  570  pwd
+  571  cd ..
+  572  printenv
+  573  pip install fire
+  574  ls
+  575  cd desktop
+  576  ls
+  577  python cli.py
+  578  cd ..
+  579  printenv
+  580  ls
+  581  cd desktop
+  582  ls
+  583  cd GitHub_Upload
+  584  ls
+  585  cd LoanAnalyzer
+  586  ls
+  587  ls
+  588  git status
+  589  ls
+  590  git add loan_analyzer.py
+  591  git commit -m "Final version to challenge assignment.\n"
+  592  git push
+  593  git status
+  594  ls
+  595  git add inexpensive_loans.csv
+  596  git commit -m "CSV file append inexpensive_loans list" 
+  597  git push
+  598  git status
+  599  ls
+  600  cd loan_analyzer.py
+  601  ls
+  602  git status
+  603  ls
+  604  git add loan_analyzer.py
+  605  get commit -m "Updated revision to final version to challenge assignment."
+  606  git commit -m "Updated revision to final version to challenge assignment."
+  607  git push
+  608  git status
+  609  pwd
+  610  cd ..
+  611  cd ..
+  612  touch dialog.py
+  613  ls
+  614  python dialog.py
+  615  python cli.py
+  616  pip install questionary
+  617  python dialog.py
+  618  ls
+  619  python dialog.py
+  620  dialog.py
+  621  python dialog.py
+  622  ls
+  623  python dialog.py
+  624  ls
+  625  cd fintech_bootcamp
+  626  ls
+  627  cd ..
+  628  ls
+  629  cd Fintech_Workspace
+  630  ls
+  631  Module 2
+  632  cd Module\ 2
+  633  ls
+  634  cd Class_2_Activities
+  635  ls
+  636  cd ..
+  637  ls
+  638  cd 02_Adding_questionary_to_Loan_Qualifier
+  639  ls
+  640  cd Unsolved
+  641  ls
+  642  python app.py
+  643  python app.py --credit_score=750 --debt=5000 --income=2000
+  644  python app.py
+  645  python app.py
+  646  ls
+  647  python.apy
+  648  python app.py
+  649  cd
+  650  ls
+  651  cd desktop
+  652  ls
+  653  cd Fintech_Workspace
+  654  ls
+  655  cd ..
+  656  ls
+  657  cd fintech_bootcamp
+  658  ls
+  659  cd UCB-VIRT-FIN-PT-09-2022-U-B
+  660  LS
+  661  git pull
+  662  ls
+  663  git status
+  664  ls
+  665  cd 03-Financial-Analysis-Pandas
+  666  ls
+  667  1
+  668  cd 1
+  669  ls
+  670  cd Activities
+  671  ls
+  672  cd ..
+  673  cd ..
+  674  cd ..
+  675  cd ..
+  676  conda activate dev
+  677  conda list pandas
+  678  conda list jupyterlab
+  679  conda info --envs
+  680  conda list
+  681  jupyter lab
+  682  conda deactivate
+  683  conda activate conda
+  684  conda activate conda
+  685  conda info --envs
+  686  conda activate conda
+  687  conda list
+  688  conda activate dev
+  689  jupyter
+  690  jupyter lab
+  691  conda info --envs
+  692  conda remove --name dev --all
+  693  conda update conda
+  694  conda infor --envs
+  695  conda info --envs
+  696  conda activate dev
+  697  conda list
+  698  conda activate dev
+  699  python --ver
+  700  python -v
+  701  python --version
+  702  conda --version
+  703  conda create -n dev python=3.9 anaconda
+  704  conda activate dev
+  705  conda info --envs
+  706  jupyter lab
+  707  conda infor --envs
+  708  conda info --envs
+  709  conda activate dev
+  710  jupyter lab
+  711  conda activate dev
+  712  conda info --envs
+  713  jupyter lab
+  714  ls
+  715  cd desktop
+  716  ls
+  717  cd Fintech_Workspace
+  718  ls
+  719  cd ..
+  720  cd fintech_bootcamp
+  721  ls
+  722  cd UCB-VIRT-FIN-PT-09-2022-U-B
+  723  ls
+  724  git pull
+  725  git status
+  726  conda activate dev
+  727  jupyter lab
+  728  ls
+  729  cd desktop
+  730  ls
+  731  cd fintech_bootcamp
+  732  ls
+  733  cd UCB-VIRT-FIN-PT-09-2022-U-B
+  734  ls
+  735  git status
+  736  ls
+  737  git pull
+  738  conda activate dev
+  739  jupyter lab
+  740  conda activate dev
+  741  cd
+  742  ls
+  743  cd desktop
+  744  ls
+  745  cd GitHub_Upload
+  746  ls
+  747  git status
+  748  ls
+  749  cd fintechbootcamp
+  750  ls
+  751  cd ..
+  752  ls
+  753  mkdir LoanQualifier
+  754  ls
+  755  cd LoanQualifier
+  756  ls
+  757  git status
+  758  ls
+  759  cd ..
+  760  ls
+  761  cd LoanQualifier
+  762  ls
+  763  git add .
+  764  ls
+  765  git add.
+  766  cd ..
+  767  ls
+  768  git branch
+  769  git status
+  770  ls
+  771  cd LoanQualifier
+  772  git status
+  773  ls
+  774  git status
+  775  git add .
+  776  ls
+  777  cd desktop
+  778  ls
+  779  cd GitHub_Upload
+  780  ls
+  781  cd LoanQ
+  782  cd LoanQualifier
+  783  ls
+  784  git status
+  785  git add .
+  786  git commit -m "starter code for challenge assignment"
+  787  git push
+  788  ls
+  789  cd data
+  790  ls
+  791  cd ..
+  792  ls
+  793  cd qualifier
+  794  ls
+  795  cd filters
+  796  ls
+  797  cd ..
+  798  cd ..
+  799  cd ..
+  800  ls
+  801  cd LoanQualifier
+  802  ls
+  803  git status
+  804  ls
+  805  git add .
+  806  git commit -m "upload starter code for challenge assignment"
+  807  git push
+  808  ls
+  809  cd ..
+  810  cd ..
+  811  ls
+  812  cd desktop
+  813  ls
+  814  cd GitHub_Upload
+  815  ls
+  816  git clone git@github.com:xanderdgr8/LoanQualifier.git
+  817  git status
+  818  ls
+  819  cd LoanQualifier
+  820  ls
+  821  git status
+  822  git add .
+  823  git commit -m "starter code for challenge assignment"
+  824  git push
+  825  cd ..
+  826  cd ..
+  827  cd ..
+  828  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanQualifier/app.py
+  829  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanQualifier/app.py
+  830  conda activate dev
+  831  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanQualifier/app.py
+  832  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanQualifier/qualifier/filters/debt_to_income.py
+  833  los
+  834  ls
+  835  cd desktop
+  836  ls
+  837  cd GitHub_Upload
+  838  ls
+  839  cd LoanQualifier
+  840  ls
+  841  python app.py
+  842  conda activate dev
+  843  pip install fire
+  844  cd ..
+  845  cd ..
+  846  cd ..
+  847  pip install questionary
+  848  ls
+  849  cd Git
+  850  cd desktop
+  851  ls
+  852  cd GitHub_Upload
+  853  ls
+  854  cd LoanQualifier
+  855  ls
+  856  python app.py
+  857  /usr/bin/python3 /Users/alexvalenzuela/Desktop/GitHub_Upload/LoanQualifier/app.py
+  858  conda activate dev
+  859  ls
+  860  python app.py
+  861  ls
+  862  python app.py
+  863  python app.py
+  864  source /Users/alexvalenzuela/opt/anaconda3/envs/dev/bin/activate base
+  865  history 50>terminal history.txt
+  866  clear
+  867  conda active dev
+  868  clear
+  869  conda activate dev
+  870  clear
+  871  ls
+  872  python app.py
+  873  clear
+  874  python.py
+  875  clear
+  876  ls
+  877  python app.py
+  878  clear
+  879  ls
+  880  python app.py
+  881  conda active dev
+  882  conda activate dev
+  883  code ..
+  884  pwd
+  885  ls
+  886  cd desktop
+  887  ls
+  888  cd GitHub_Upload
+  889  ls
+  890  cd LoanQualifier
+  891  ls
+  892  python app.py
+  893  python app.py
+  894  clear
+  895  ls
+  896  python app.py
+  897  python app.py
+  898  clear
+  899  ls
+  900  python app.py
+  901  ls
+  902  python app.py
+  903  python app.py
+  904  python app.py
+  905  python app.py
+  906  python app.py
+  907  ls
+  908  cd ..
+  909  ls
+  910  cd LoanQ
+  911  cd LoanQualifier
+  912  ls
+  913  cd qualifier
+  914  ls
+  915  cd utils
+  916  ls
+  917  mkdir save_csv.py
+  918  ls
+  919  cd ..
+  920  cd ..
+  921  cd ..
+  922  cd ..
+  923  ls
+  924  cd GitHub_Upload
+  925  ls
+  926  cd LoanQ
+  927  cd LoanQualifier
+  928  ls
+  929  cd qualifier
+  930  ls
+  931  cd utils
+  932  ls
+  933  rmdir save_csv.py
+  934  ls
+  935  touch save_csv
+  936  ls
+  937  ls
+  938  ls
+  939  cd ..
+  940  ls
+  941  cd ..
+  942  ls
+  943  cd ..
+  944  ls
+  945  cd LoanQualifier
+  946  ls
+  947  cd qualifier
+  948  ls
+  949  cd utils
+  950  ls
+  951  cd ..
+  952  ls
+  953  cd ut
+  954  cd utils
+  955  ls
+  956  cd save_csv
+  957  ls
+  958  git status
+  959  git add .
+  960  git commit -m "Created function save_csv and updated CLI."
+  961  git push
+  962  git status
+  963  ls
+  964  cd ..
+  965  cd ..
+  966  ls
+  967  git status
+  968  ls
+  969  touch .gitignore
+  970  ls
+  971  ls
+  972  touch .gitignore
+  973  ls
+  974  cd ..
+  975  ls
+  976  cd LoanQ
+  977  cd LoanQualifier
+  978  ls
+  979  history 50>terminal_history.txt
+  980  ls
+  981  cat terminal_history.txt
+  982  ls
+  983  cd desktop
+  984  ls
+  985  cd GitHub_Upload
+  986  ls
+  987  cd LoanQualifier
+  988  ls
+  989  history 250> terminal_history.txt
+  990  ls
+  991  cat terminal_history.txt
+  992  ls
+  993  cd desktop
+  994  ls
+  995  cd GitHub_Upload
+  996  ls
+  997  cd LoanQualifier
+  998  ls
+  999  history 150> terminal_history.txt
+ 1000  cat terminal_history.txt
+ 1001  cd desktop
+ 1002  ls
+ 1003  cd GitHubDesktop-x64.zip
+ 1004  cd GitHub_Upload
+ 1005  LS
+ 1006  cd LoanQualifier
+ 1007  ls
