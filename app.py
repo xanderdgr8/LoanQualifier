@@ -6,12 +6,13 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+#System exit in save_qualifying_loans function.
 import sys
 import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -22,6 +23,7 @@ from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
+
 
 
 def load_bank_data():
@@ -106,11 +108,36 @@ def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
 
     Args:
-        qualifying_loans (list of lists): The qualifying bank loans.
+        save_a_file and qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+    #Update the CLI
+    
+    if qualifying_loans:
+    
+    #Questionary prompt for saving a loan
+        save_a_file = questionary.confirm("Do you want to save the qualifying loans?").ask()
+    
+    
+        if save_a_file:
 
+    #Questionary prompt for saving to a file path location.
+            save_a_file = questionary.text("Enter a file path to save:").ask()
+    
+    #Function call - arguments returned to function
+            save_csv(save_a_file,qualifying_loans)
+    
+    
+        else:
+
+    #System exit with message if user opts to not save a file. 
+            sys.exit("Please come back again.") 
+
+    else:
+    
+    #System exit with message if no qualifying loans were found.  
+        sys.exit("No qualifying loans were found. Please come back again.")
 
 def run():
     """The main function for running the script."""
